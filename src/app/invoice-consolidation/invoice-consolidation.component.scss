@@ -1,0 +1,16 @@
+td.details-control {
+    background: url('../../assets//img/righttablearrow.png') no-repeat center center;
+    cursor: pointer;
+    background-size: 10px 20px;
+}
+
+tr.shown td.details-control {
+    background: url('../../assets/img/downarrow.png') no-repeat center center;
+    background-size: 20px 10px;
+}
+#example_filter {
+    display: block;
+}
+.col-sm-12 {
+overflow:auto;
+}

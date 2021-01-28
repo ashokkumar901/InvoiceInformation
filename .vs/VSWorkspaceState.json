@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\consolidation-definition",
+    "\\src\\app\\invoice-consolidation",
+    "\\src\\app\\invoice-master",
+    "\\src\\app\\invoice-printing"
+  ],
+  "SelectedNode": "\\src\\index.html",
+  "PreviewInSolutionExplorer": false
+}
